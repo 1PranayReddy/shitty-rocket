@@ -1,0 +1,46 @@
+
+h2{
+  color:white;
+  position:absolute;
+  bottom:300px;
+  left:170px;
+  display:none;
+}
+
+.name{
+  background-color:pink;
+  height:700px;
+  width:500px;
+  margin-left:400px;
+  margin-top:50px;
+  position:relative;
+  background-image:url("sky.jpg")
+}
+.rocket{
+  width:10%;
+  position:absolute;
+  bottom:60px;
+  left:225px;
+  z-index:200;
+}
+
+/* aestroids */
+
+.aestroid2{
+  width:25%;
+  position: absolute;
+  bottom:200px;
+  left:80px;
+}
+.aestroid3{
+  width:35%;
+  position: absolute;
+  bottom:380px;
+  left:280px;
+}
+.aestroid4{
+  width:40%;
+  position: absolute;
+  bottom:550px;
+  left:90px;
+}
